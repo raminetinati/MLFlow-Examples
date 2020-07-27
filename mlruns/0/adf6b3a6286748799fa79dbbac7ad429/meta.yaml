@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/ramine.tinati/git/MLFlow-Example/mlruns/0/adf6b3a6286748799fa79dbbac7ad429/artifacts
+end_time: 1595828520689
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+name: ''
+run_id: adf6b3a6286748799fa79dbbac7ad429
+run_uuid: adf6b3a6286748799fa79dbbac7ad429
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1595828520641
+status: 3
+tags: []
+user_id: ramine.tinati
